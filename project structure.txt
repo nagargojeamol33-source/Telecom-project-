@@ -1,0 +1,14 @@
+Telecom-Churn-Analysis
+│
+├── Data/
+│   ├── Raw_Data.csv           
+│   └── Cleaned_Data.csv     
+│
+├── SQL_Scripts/
+│   ├── Data_Cleaning.sql         
+│   └── Analysis_Queries.sql      
+├── PowerBI_Dashboard/
+│   └── Telecom_Analysis.pbix     
+│
+├── Dashboard file
+│   ├── Dashboard_Overview.png    
