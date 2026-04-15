@@ -25,5 +25,5 @@ I used  SQL for data cleaning (ETL) and Power BI for interactive visualization.
 - Feature Engineering:
            Segmented users based on data consumption patterns.
   
-  # dashboard creation
+  # Dashboard Creation
      by using cleaned data from sql created interective dashboard by using visualization tool power bi 
